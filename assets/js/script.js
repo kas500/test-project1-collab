@@ -316,7 +316,7 @@ var npsAPIkey = "api_key=jFUiLTrcoquzkLV62lQbZqbdBOHbJVMRKkHy3F2Y";
 var openlibraryBaseAPIUrl = "https://openlibrary.org/search.json?q=";
 
 //Anton - base string vars for openWeather API
-var openWeatherAirQualityAPI = "http://api.openweathermap.org/data/2.5/air_pollution?";
+var openWeatherAirQualityAPI = "https://api.openweathermap.org/data/2.5/air_pollution?";
 var openWeatherAPIkey = "&appid=81400ac056ac2215ad92e79b9c4185bb";
 
  //Anton - getRandomBook(openlibraryBaseAPIUrl+parkName);
